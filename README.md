@@ -1,1 +1,1 @@
-A comprehensive analysis of pizza sales data to uncover trends, revenue, and popular products.
+Examine critical metrics in the Pizza sales data to derive insights on business performance.
